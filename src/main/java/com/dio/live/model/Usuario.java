@@ -15,7 +15,7 @@ import java.time.LocalDateTime;
 @Builder
 public class Usuario {
 
-    private long id;
+    private Long id;
     @ManyToMany
     private CategoriaUsuario categoriaUsuario;
     private String nome;

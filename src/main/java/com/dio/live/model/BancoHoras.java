@@ -8,8 +8,8 @@ import lombok.*;
 @NoArgsConstructor
 @EqualsAndHashCode
 @Builder
-public class TipoData {
+public class BancoHoras {
 
-    private Long id;
-    private String descricao;
+
+
 }

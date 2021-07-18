@@ -10,7 +10,7 @@ import lombok.*;
 @Builder
 public class Ocorrencia {
 
-    private long id;
+    private Long id;
     private String nome;
     private String descricao;
 
